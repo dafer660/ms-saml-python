@@ -1,0 +1,6 @@
+Flask
+werkzeug
+flask-session
+flask-cors
+requests
+msal
